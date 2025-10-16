@@ -1,0 +1,55 @@
+# CLion / JetBrains
+.idea/
+*.iml
+
+# CMake build directories
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+Testing/
+CTestTestfile.cmake
+
+# Build outputs
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.out
+*.a
+*.lib
+*.app
+*.i
+*.ii
+*.s
+*.su
+*.idb
+*.pdb
+
+# Generated logs or temp files
+*.log
+*.tmp
+
+# macOS / Windows system files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.userprefs
+*.swp
+*.swo
+*.swn
+
+# CLion run configurations (optional)
+# Comment this out if you want to share run/debug configs
+.idea/runConfigurations/
+
+# Optional: Ignore vcpkg or other local deps
+vcpkg_installed/
+.vscode/
