@@ -3,7 +3,11 @@
     .extern debug_print
     .text
 
-# base case: fib(2) = 0 + 1 = 1
+## concepts:
+#       basics
+#       push and pop on the stack
+#       memory
+#       recursion
 
 fib:
     push %rbp

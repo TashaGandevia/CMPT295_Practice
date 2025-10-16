@@ -2,6 +2,9 @@
     .global min2
     .text
 
+## concepts:
+#       basics
+#       comparison
 
 min2:
     cmp %rdi, %rsi

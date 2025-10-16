@@ -2,6 +2,9 @@
     .global max2
     .text
 
+## concepts:
+#       basics
+#       comparison
 
 max2:
     cmp %rdi, %rsi

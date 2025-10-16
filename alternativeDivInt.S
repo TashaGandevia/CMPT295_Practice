@@ -2,6 +2,9 @@
     .global alternativeDivInt
     .text
 
+## concepts:
+#       basics
+#       division with rdx:rax
 
 alternativeDivInt:
     mov %rdi, %rax          # moves rdi to rax

@@ -3,6 +3,12 @@
     .text
 
 
+## concepts:
+#       basics
+#       recursion
+#       push and pop on the stack
+#       memory
+
 factorial:
     test %rdi, %rdi         # is N > 0 as it enters?
     je zero                 # yes, jump to loop

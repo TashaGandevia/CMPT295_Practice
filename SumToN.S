@@ -2,6 +2,9 @@
     .global sumToN
     .text
 
+## concepts:
+#       basics
+#       recursion
 
 sumToN:
     mov %rdi, %rbx              # put rdi into rbx for safe keeping

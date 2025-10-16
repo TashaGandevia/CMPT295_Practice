@@ -2,6 +2,12 @@
     .global isPositive
     .text
 
+
+## concepts:
+#       basics
+#       branching
+#       test / self-comparison
+
 isPositive:
     test %rdi, %rdi
     jg pos

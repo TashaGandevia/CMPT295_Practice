@@ -3,6 +3,12 @@
     .text
 
 
+## concepts:
+#       basics
+#       mod
+#       xor
+#       div
+
 modInt:
     mov %rdi, %rax              # dividend
     xor %rdx, %rdx              # zero extend to 128-bit

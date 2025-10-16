@@ -2,6 +2,10 @@
     .global divInt
     .text
 
+## concepts:
+#       basics
+#       division with rdx:rax
+#       xor
 
 divInt:
     mov %rdi, %rax          # moves rdi into rax

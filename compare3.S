@@ -2,6 +2,12 @@
     .global compare3
     .text
 
+## concepts:
+#       basics
+#       comparisons
+#       label jumps
+
+
 # a = rdi
 # b = rsi
 # c = rdx

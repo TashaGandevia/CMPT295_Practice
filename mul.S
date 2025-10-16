@@ -3,6 +3,10 @@
     .text
 
 
+## concepts:
+#       basics
+#       multiplication
+
 mul:
     mov %rdi, %rax              # moves rdi to rax
     imul %rsi, %rax             # multiplies rsi and rax

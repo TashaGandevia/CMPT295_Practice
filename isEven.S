@@ -2,6 +2,10 @@
     .global isEven
     .text
 
+## concepts:
+#       basics
+#       loops
+#       mod
 
 isEven:
     push %rbx               # preserved register
