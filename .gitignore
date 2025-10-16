@@ -26,7 +26,6 @@ CTestTestfile.cmake
 *.app
 *.i
 *.ii
-*.s
 *.su
 *.idb
 *.pdb
@@ -53,3 +52,4 @@ Thumbs.db
 # Optional: Ignore vcpkg or other local deps
 vcpkg_installed/
 .vscode/
+/practice
